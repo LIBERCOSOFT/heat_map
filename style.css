@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: lightslategray;
+}
+
+#home{
+    width: 1500px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+#home p{
+    margin-bottom: -100px;
+}
+
+.rect {
+    stroke: black;
+    stroke-width: 1px;
+}
+
+
+.rect:hover {
+    stroke: black;
+    stroke-width: 2px;
+}
